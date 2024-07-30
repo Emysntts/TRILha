@@ -9,5 +9,5 @@ def two_sum(nums,k):
 nums = [1,2,3,4,5]
 k = 9
 
-resultado = soma_dois(nums,k)
-print(resultado)
+result = two_sum(nums,k)
+print(result)
